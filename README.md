@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LukasGoodman23
-- 👀 I’m interested in Gameplay Design
+- 👋 Hi, I’m Lukas Goodman
+- 👀 I’m interested in Gameplay Design and Engineering
 - 🌱 I’m currently learning basic 3D modeling in Blender and game design in Unreal Engine 5
 - 📫 How to reach me: LukasGoodman23@gmail.com
 
