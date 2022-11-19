@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lukas Goodman
 - 👀 I’m interested in Gameplay Design and Engineering
-- 🌱 I’m currently learning basic 3D modeling in Blender and game design in Unreal Engine 5
+- 🌱 I’m currently studying game development at Pennwest University
 - 📫 How to reach me: LukasGoodman23@gmail.com
 
 <!---
